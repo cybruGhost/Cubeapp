@@ -41,7 +41,7 @@ From HD content to smart download management — it's your all-in-one TV solutio
 
 ## 🌍 Translate TheCubeTV
 
-Join our localization effort on [Crowdin](https://crowdin.com/project/N-Zik) and bring TheCubeTV to your language!
+has ur lang.
 
 ---
 
@@ -53,8 +53,7 @@ Please report issues or request features via [GitHub Issues](https://github.com/
 
 ## ⚖️ License
 
-TheCubeTV is open-source and licensed under **GNU GPL v3**.  
-Use, modify, improve — all while respecting the community spirit.
+TheCubeTV is open-source and licensed under **GNU GPL v4**.  use and distribute
 
 ---
 
