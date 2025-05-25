@@ -26,7 +26,7 @@ From HD content to smart download management — it's your all-in-one TV solutio
 
 - **HD Streaming** – Smooth playback with sharp visuals.
 - **Zero Ads** – Clean experience without interruptions.
-- **Download Manager** – Store and access content offline.
+- **Caches Manager** – saves ur progresss.
 - **Built-in Settings Page** – Customize your viewing: themes, quality, and more.
 - **TV-Friendly UI** – Navigate easily with remote controls.
 
