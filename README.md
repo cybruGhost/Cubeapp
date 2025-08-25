@@ -16,7 +16,6 @@
 ## 🎬 What is TheCubeTV?
 
 **TheCubeTV** is a sleek, ad-free streaming app designed for Android TV devices.  
-From HD content to smart download management — it's your all-in-one TV solution.
 
 > Downloaded from `Cubeapp`, powered for immersive TV.
 
@@ -27,7 +26,6 @@ From HD content to smart download management — it's your all-in-one TV solutio
 - **HD Streaming** – Smooth playback with sharp visuals.
 - **Zero Ads** – Clean experience without interruptions.
 - **Caches Manager** – saves ur progresss.
-- **Built-in Settings Page** – Customize your viewing: themes, quality, and more.
 - **TV-Friendly UI** – Navigate easily with remote controls.
 
 ---
@@ -51,11 +49,7 @@ Please report issues or request features via [GitHub Issues](https://github.com/
 
 ---
 
-## ⚖️ License
 
-TheCubeTV is open-source and licensed under **GNU GPL v4**.  use and distribute
-
----
 
 <p align="center">
   Developed by <a href="https://github.com/cybruGhost">cybruGhost</a> with passion for seamless viewing.
