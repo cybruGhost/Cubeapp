@@ -15,7 +15,7 @@
 
 ## 🎬 What is TheCubeTV?
 
-**TheCubeTV** is a sleek, ad-free streaming app designed for Android TV devices.  
+**TheCubeTV** is a sleek, ad-free streaming app designed for Android TV devices.  the best u will have
 
 > Downloaded from `Cubeapp`, powered for immersive TV.
 
